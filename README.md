@@ -2,6 +2,7 @@
 <hr>
 <h2 align=center><a href="https://www.mediafire.com/file/2zj82nvdz1dqotm/｛+Åñdróid+ÎDE+｝.apk/file">Download</a></h2>
 <hr>
+```
 > Update includes :   
 • Full Gradle [SDK and x64 device required]   
 • Kotlin support   
@@ -41,3 +42,4 @@
 • Added Debug for catching Crash
 • Fix Androidx Crash
 • Updated Android.jar api 30
+```
