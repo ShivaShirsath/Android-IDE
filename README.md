@@ -1,6 +1,6 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
 <hr>
-<h2 align=center><a href="download1498.mediafire.com/6uth6bf5ejcg/2zj82nvdz1dqotm/｛+Åñdróid+ÎDE+｝.apk">Download</a></h2>
+<h2 align=center><a href="https://download1498.mediafire.com/6uth6bf5ejcg/2zj82nvdz1dqotm/｛+Åñdróid+ÎDE+｝.apk">Download</a></h2>
 <hr>
 
 > Update includes :
