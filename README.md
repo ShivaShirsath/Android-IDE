@@ -1,6 +1,6 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
 <hr>
-<a href=https://www.mediafire.com/file/2zj82nvdz1dqotm/｛+Åñdróid+ÎDE+｝.apk/file><h2 align=center>Download</h2></a>
+<h2 align=center><a href="https://www.mediafire.com/file/2zj82nvdz1dqotm/｛+Åñdróid+ÎDE+｝.apk/file">Download</a></h2>
 <hr>
 > Update includes :
 • Full Gradle [SDK and x64 device required]
