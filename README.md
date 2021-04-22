@@ -22,7 +22,7 @@
 - Change the color scheme of the editor 
 - Change the quick entry characters in the bottom bar
 - Custom font for editor 
-+ Image to the background of the editor 
+- Image to the background of the editor 
 - Resguard resource encryption 
 - Encrypting strings in StringFog classes 
 - Fix MultiDex + AndroidX 
