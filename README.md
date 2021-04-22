@@ -17,7 +17,7 @@
 - New style of toast    
 - Russian language   
 - English and Chinese languages 
-- Indigo style to dark theme 
+- 🔱 style to dark theme 
 - Premium Add. settings: 
 - Change the color scheme of the editor 
 - Change the quick entry characters in the bottom bar
