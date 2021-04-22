@@ -2,18 +2,18 @@
 <hr>
 <h2 align=center><a href="https://www.mediafire.com/file/2zj82nvdz1dqotm/｛+Åñdróid+ÎDE+｝.apk/file">Download</a></h2>
 <hr>
-> Update includes :
-• Full Gradle [SDK and x64 device required]
-• Kotlin support
-• New project templates
-• Updated aapt 
-• Updated android.jar 
-• Updated Proguard 
-• New design 
-• New icons 
-• Animations in dialogs 
-• New style of toast 
-• Russian language
+> Update includes :   
+• Full Gradle [SDK and x64 device required]   
+• Kotlin support   
+• New project templates   
+• Updated aapt    
+• Updated android.jar    
+• Updated Proguard    
+• New design    
+• New icons    
+• Animations in dialogs    
+• New style of toast    
+• Russian language   
 • English and Chinese languages 
 • Indigo style to dark theme 
 • Premium Add. settings: 
