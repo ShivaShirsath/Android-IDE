@@ -1,6 +1,6 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
 
-<h2 align=center><a href="https://download1638.mediafire.com/n74t5bgf48bg/yd0v6koetvzuumw/｛+Åñdróid+ÎDE+｝.apk">Download</a></h2>
+<h2 align=center><a href="https://www.mediafire.com/file/yd0v6koetvzuumw/%25EF%25BD%259B_%25C3%2585%25C3%25B1dr%25C3%25B3id_%25C3%258EDE_%25EF%25BD%259D.apk/file">Download</a></h2>
 
 
 > Update includes :
