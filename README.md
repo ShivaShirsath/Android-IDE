@@ -5,8 +5,7 @@
 
 > Update includes :
 
-- Full Gradle [SDK and x64 device required]   
-- Kotlin support   
+- Full Gradle [SDK and x64 device required]
 - New project templates   
 - Updated aapt    
 - Updated android.jar    
