@@ -5,10 +5,10 @@
   </a>
   is modified
   <a href=https://play.google.com/store/apps/details?id=com.aide.ui>
-    ► AIDE
+    AIDE
   </a>
 </h6>
-
+<hr>
 <h2 align=center>
   <a href="https://github.com/ShivaShirsath/Android-IDE/releases/tag/Release">
     Check Release
