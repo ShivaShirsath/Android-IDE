@@ -1,5 +1,5 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
-<p align=center>
+<h6 align=center>
   <a href=https://github.com/ShivaShirsath/Android-IDE.git>
     ｛ Åñdróid ÎDE ｝
   </a>
@@ -7,8 +7,8 @@
   <a href=https://play.google.com/store/apps/details?id=com.aide.ui>
     ► AIDE
   </a>
-</p>
-<hr>
+</h6>
+
 <h2 align=center>
   <a href="https://github.com/ShivaShirsath/Android-IDE/releases/tag/Release">
     Check Release
