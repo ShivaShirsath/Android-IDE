@@ -7,7 +7,7 @@ This is modified <a href=https://github.com/ShivaShirsath/Android-IDE.git>｛ Å
 <hr>
 <h2 align=center>
   <a href="https://github.com/ShivaShirsath/Android-IDE/releases/tag/Release">
-    Check ⇱Release⇲
+    Check Release
   </a>
 </h2>
 
