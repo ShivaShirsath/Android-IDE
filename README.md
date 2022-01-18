@@ -5,6 +5,21 @@
 
 > Update includes :
 
+- Kotlin Project included
+  + You need a Github account for this project for running
+- Jetpack Compose project included
+  + You need a Github account for this project for running
+- Admob Projects includes
+  + Simple & Advanced
+- Firebase Projects included
+  + Simple & Advanced
+- Project creation checklist changed
+  + Each checkpoint having two projects
+- Modified & Encrypted
+
+
+
+
 - Full Gradle [SDK and x64 device required]
 - New project templates   
 - Updated aapt    
