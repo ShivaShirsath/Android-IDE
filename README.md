@@ -1,5 +1,8 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
 
+this is modified  ｛ Åñdróid ÎDE ｝  
+&
+ ｛ Åñdróid ÎDE ｝  is modified [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui)
 <h2 align=center><a href="https://www.mediafire.com/file/j4x0htsnwnxz8i8/｛+Åñdróid+ÎDE+｝v3.apk">Download</a></h2>
 
 
