@@ -1,8 +1,12 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
 <p align=center>
-This is modified <a href=https://github.com/ShivaShirsath/Android-IDE.git>｛ Åñdróid ÎDE ｝</a>
-<br>&<br/>
-｛ Åñdróid ÎDE ｝ is modified <a href=https://play.google.com/store/apps/details?id=com.aide.ui> ► AIDE</a>
+  <a href=https://github.com/ShivaShirsath/Android-IDE.git>
+    ｛ Åñdróid ÎDE ｝
+  </a>
+  is modified
+  <a href=https://play.google.com/store/apps/details?id=com.aide.ui>
+    ► AIDE
+  </a>
 </p>
 <hr>
 <h2 align=center>
