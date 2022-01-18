@@ -1,10 +1,14 @@
 <h1 align=center> ｛ Åñdróid ÎDE ｝ </h1>
 <p align=center>
-This is modified <a href=https://github.com/ShivaShirsath/Android-IDE.git>｛ Åñdróid ÎDE ｝ </a>
+This is modified <a href=https://github.com/ShivaShirsath/Android-IDE.git>｛ Åñdróid ÎDE ｝</a>
 <br>&<br/>
 ｛ Åñdróid ÎDE ｝ is modified <a href=https://play.google.com/store/apps/details?id=com.aide.ui> ► AIDE</a>
 </p>
-<h2 align=center><a href="https://github.com/ShivaShirsath/Android-IDE/releases/tag/Release">Download</a></h2>
+<h2 align=center>
+  <a href="https://github.com/ShivaShirsath/Android-IDE/releases/tag/Release">
+    Check ⇱Release⇲
+  </a>
+</h2>
 
 
 > Update includes :
