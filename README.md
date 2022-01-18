@@ -17,7 +17,7 @@
   + Each checkpoint having two projects
 - Modified & Encrypted
 
-
+***
 
 
 - Full Gradle [SDK and x64 device required]
