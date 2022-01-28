@@ -30,10 +30,7 @@
   + Each checkpoint having two projects
 - Modified & Encrypted
 
-***
-![](ss.png)
-***
-
+**
 
 - Full Gradle [SDK and x64 device required]
 - New project templates   
